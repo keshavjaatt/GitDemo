@@ -1,0 +1,17 @@
+ch=input("enter a alp")
+if(ch==a andch==A):
+  print("is a vowel")
+elif(ch==e and ch==E):
+  print("is a vowel")
+elif(ch==i and ch==I):
+  print("is a vowel")
+elif(ch==o and ch==O): 
+  print("is a vowel")
+elif(ch==u and ch==U):
+  print("is a vowel")
+else:
+  print("is a constant")
+
+    
+    
+
